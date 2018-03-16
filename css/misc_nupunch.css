@@ -33,7 +33,7 @@ span.userlevel {
 .postrender .postinner > .postuser {
     padding: 0px;
 }
-
+/*
 .postrender .postinner > .postuser .username {
     text-align: center;
     text-shadow: 1px1px0px#0009;
@@ -41,7 +41,7 @@ span.userlevel {
     padding-bottom: 0.8rem;
     padding-top: 1.7rem;
     top: 0px;
-}
+} */
 /* reagys coins */
 .navbar-item.darker::after {
     content: attr(title);
