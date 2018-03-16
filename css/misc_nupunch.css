@@ -18,8 +18,8 @@
 .bglinker .timeago::before {
     content: "";
 }
-/* oldpunch styled own post visibility */
+/* oldpunch styled own post visibility for ad2 */
 .postblock-own .postbody,.postblock-own .postfoot,.postblock-own .editinfo {
-	background: linear-gradient(to right, #F0FFC0, #fff 400px);
+	background: linear-gradient(to right, #F0FFC0, #333333 400px);
 	opacity: 1;
 }
