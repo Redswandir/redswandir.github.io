@@ -1,7 +1,7 @@
-/* minimalistic profile cards by mez */
+/* minimalistic profile cards by mez 
 .postuser .user-card .user-card-header{padding-left:0!important; padding-right:0!important;margin-top:0; background-color: #0000}
 .postuser .user-card .user-card-toolbar{background-color: #0000}
-.postuser .user-card {background:none !important; box-shadow:unset; width:200px; left:0; top:0; height:110px; background-color: rgba(34,34,34,0.3) !important}
+.postuser .user-card {background:none !important; box-shadow:unset; width:200px; left:0; top:0; height:110px; background-color: rgba(34,34,34,0.3) !important} */
 /* reagys level bars */
 .userlevel {
     width: 100%;
