@@ -20,8 +20,8 @@
 }
 /* post bgs for ad2 */
 .postblock.postblock-own .postcontent{
-    background: linear-gradient(to right, #2a5b8c, #333333 45%);
+    background: linear-gradient(to right, #f66268, #333333 66%);
 }
 .postblock .postcontent{
-    background: linear-gradient(to right, #2a5b8c, #333333 45%);
+    background: linear-gradient(to right, #2a5b8c, #333333 66%);
 }
