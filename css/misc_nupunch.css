@@ -20,8 +20,8 @@
 }
 /* post bgs for ad2 */
 .postblock.postblock-own .postcontent{
-    background: linear-gradient(to right, #b3363a, #333333 83%);
+    background: linear-gradient(to right, rgba(179,54,89,0.6), rgba(255,255,255,0) 83%);
 }
 .postblock .postcontent{
-    background: linear-gradient(to right, #2a5b8c, #333333 83%);
+    background: linear-gradient(to right, rgba(42,83,140,0.6), rgba(255,255,255,0) 83%);
 }
